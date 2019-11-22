@@ -2,6 +2,7 @@ import * as fs from 'fs'
 import * as pngjs from 'pngjs'
 import chalk from 'chalk'
 
+// regular expression.
 
 const dateExp = /^\d{4}-\d{2}(-\d{2})?$/
 
